@@ -1,0 +1,36 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "World History"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2b8a3811-d3a2-ca98-0b6a-2964d2ef5cb5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Women and War in the 20th Century",
+  "course_description": "This seminar examines women's experiences during and after war, revolution, and genocide. The focus of the course is mostly on the 20th century and on North America, Europe and the Middle East.\n",
+  "department_numbers": [
+    "21H",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.222J",
+  "primary_course_number": "21H.381J",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
